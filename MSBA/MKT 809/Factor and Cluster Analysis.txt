@@ -1,0 +1,37 @@
+LIBNAME mydata "/home/ps140/my_content/Marketing Analytics"; 
+run;
+filename babywt1 "/home/ps140/my_content/Marketing Analytics/Birthweight_reduced.xls"; 
+run;
+proc import datafile= babywt1 dbms=xls out=mydata.babywt2; 
+run;
+
+proc factor data=mydata.babywt2 method=prin scree;
+var headcirumference length birthweight gestation smoker motherage mnocig
+mheight mppwt fage fedyrs fnocig fheight lowbwt mage35;
+run;
+
+proc factor data=mydata.babywt2 method=prin scree;
+var headcirumference length birthweight gestation smoker motherage mnocig
+mheight mppwt fage fnocig lowbwt;
+run;
+
+proc factor data=mydata.babywt2 method=prin scree rotation=varimax;
+var length birthweight gestation smoker motherage mnocig
+mheight mppwt fage lowbwt;
+run;
+
+proc factor data=mydata.babywt2 method=prin scree n=4 out=babyweight1; 
+var length birthweight gestation smoker motherage mnocig
+mheight mppwt fage lowbwt;
+run;
+
+proc cluster data= work.babyweight1 method=ward print=10 ccc pseudo;
+var factor1 factor2 factor3 factor4;
+copy length birthweight gestation smoker motherage mnocig
+mheight mppwt fage lowbwt;
+run;
+
+proc tree noprint ncl=3 out=out;
+copy motherage mnocig
+mheight mppwt fage factor1 factor2 factor3 factor4;
+run;

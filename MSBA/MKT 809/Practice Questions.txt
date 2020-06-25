@@ -1,0 +1,19 @@
+Answer the below questions. Each question carries 25 points.
+Submit SAS code in notepad and answers in a word document in dropbox.
+
+1. Explore dataset named "cars" saved in SASHELP library and provide a short summary on dataset.
+
+2. Conduct data visualization between "invoice" and other inpdependent variables.
+
+3. Build Plain-vanilla regression model to model 'Invoice' of car as 
+function of other variables.
+
+4. Build regression model using variable transformation.
+
+5. Build regression model using any one variable selection method.
+
+6. Compare model fit of question no. 2, 3 and 4 stated and choose the best model, comment on r-square value.
+
+7. Rank order importance of prediction variables in the model.
+
+

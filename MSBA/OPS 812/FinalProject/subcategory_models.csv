@@ -1,0 +1,37 @@
+cat_sub,text,category,subcategory,label
+Data Retention-Personal Information Type,370,370,370,370
+Data Retention-Retention Period,370,370,370,370
+Data Retention-Retention Purpose,370,370,370,370
+Data Security-Security Measure,1008,1008,1008,1008
+Do Not Track-Do Not Track policy,90,90,90,90
+First Party Collection/Use-Action First-Party,8935,8935,8935,8935
+First Party Collection/Use-Choice Scope,8935,8935,8935,8935
+First Party Collection/Use-Choice Type,8935,8935,8935,8935
+First Party Collection/Use-Collection Mode,8935,8935,8935,8935
+First Party Collection/Use-Does/Does Not,8935,8935,8935,8935
+First Party Collection/Use-Identifiability,8935,8935,8935,8935
+First Party Collection/Use-Personal Information Type,8935,8935,8935,8935
+First Party Collection/Use-Purpose,8935,8935,8935,8935
+First Party Collection/Use-User Type,8935,8935,8935,8935
+International and Specific Audiences-Audience Type,939,939,939,939
+Other-Other Type,3548,3548,3548,3548
+Policy Change-Change Type,548,548,548,548
+Policy Change-Notification Type,548,548,548,548
+Policy Change-User Choice,548,548,548,548
+Third Party Sharing/Collection-Action Third Party,5221,5221,5221,5221
+Third Party Sharing/Collection-Choice Scope,5221,5221,5221,5221
+Third Party Sharing/Collection-Choice Type,5221,5221,5221,5221
+Third Party Sharing/Collection-Does/Does Not,5221,5221,5221,5221
+Third Party Sharing/Collection-Identifiability,5221,5221,5221,5221
+Third Party Sharing/Collection-Personal Information Type,5221,5221,5221,5221
+Third Party Sharing/Collection-Purpose,5221,5221,5221,5221
+Third Party Sharing/Collection-Third Party Entity,5221,5221,5221,5221
+Third Party Sharing/Collection-User Type,5221,5221,5221,5221
+"User Access, Edit and Deletion-Access Scope",746,746,746,746
+"User Access, Edit and Deletion-Access Type",746,746,746,746
+"User Access, Edit and Deletion-User Type",746,746,746,746
+User Choice/Control-Choice Scope,1789,1789,1789,1789
+User Choice/Control-Choice Type,1789,1789,1789,1789
+User Choice/Control-Personal Information Type,1789,1789,1789,1789
+User Choice/Control-Purpose,1789,1789,1789,1789
+User Choice/Control-User Type,1789,1789,1789,1789

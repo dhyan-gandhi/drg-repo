@@ -1,0 +1,28 @@
+data ret;
+t=0; p=0; st=1; output;
+t=1; p=0.2; st=1-p; output;
+do t= 2 to 20;
+p= p* 0.8;
+st= st-p;
+output;
+end;
+run;
+
+proc sgplot data=ret;
+Step X=t Y=st;
+Xaxis label= "Churn time";
+Yaxis label= "Survival function";
+run;
+quit;
+
+Data clv_bank;
+do p= .7 to .98 by .01;
+CLV = 400*1.1/(1.1-p);
+Output;
+end;
+run;
+
+proc sgplot data=CLV_bank;
+series X=p Y=CLV;
+xaxis label = "retention rate";
+run;

@@ -1,0 +1,23 @@
+ods graphics on;
+
+proc cluster data= sashelp.iris method=ward print=15 ccc pseudo;
+var speal: petal:;
+copy species;
+run;
+
+proc tree noprint ncl=3 out=out;
+copy petal: sepal: species;
+run;
+
+ proc freq;
+ tables cluster*species / nopercent norow nocol plot=none;
+ run;
+ 
+  proc candisc noprint out=can;
+ class cluster;
+ var petal: sepal:;
+ run;
+ 
+ proc sgplot data=can;
+ scatter y=can2 x=can1 / group=cluster;
+ run;

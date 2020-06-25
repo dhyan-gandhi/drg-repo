@@ -1,0 +1,259 @@
+Data Retention-Personal Information Type-Computer information,5
+Data Retention-Personal Information Type-Contact,24
+Data Retention-Personal Information Type-Cookies and tracking elements,13
+Data Retention-Personal Information Type-Demographic,1
+Data Retention-Personal Information Type-Financial,10
+Data Retention-Personal Information Type-Generic personal information,19
+Data Retention-Personal Information Type-Health,1
+Data Retention-Personal Information Type-IP address and device IDs,14
+Data Retention-Personal Information Type-Location,2
+Data Retention-Personal Information Type-Other,28
+Data Retention-Personal Information Type-Personal identifier,4
+Data Retention-Personal Information Type-Social media data,2
+Data Retention-Personal Information Type-Survey data,1
+Data Retention-Personal Information Type-Unspecified,31
+Data Retention-Personal Information Type-User online activities,20
+Data Retention-Personal Information Type-User profile,13
+Data Retention-Retention Period-Indefinitely,24
+Data Retention-Retention Period-Limited,72
+Data Retention-Retention Period-Other,19
+Data Retention-Retention Period-Stated Period,29
+Data Retention-Retention Period-Unspecified,90
+Data Retention-Retention Purpose-Advertising,3
+Data Retention-Retention Purpose-Analytics/Research,17
+Data Retention-Retention Purpose-Legal requirement,42
+Data Retention-Retention Purpose-Marketing,5
+Data Retention-Retention Purpose-Other,26
+Data Retention-Retention Purpose-Perform service,86
+Data Retention-Retention Purpose-Service operation and security,37
+Data Retention-Retention Purpose-Unspecified,38
+Data Security-Security Measure-Data access limitation,114
+Data Security-Security Measure-Generic,297
+Data Security-Security Measure-Other,112
+Data Security-Security Measure-Privacy review/audit,32
+Data Security-Security Measure-Privacy training,8
+Data Security-Security Measure-Privacy/Security program,61
+Data Security-Security Measure-Secure data storage,43
+Data Security-Security Measure-Secure data transfer,98
+Data Security-Security Measure-Secure user authentication,32
+Data Security-Security Measure-Unspecified,11
+Do Not Track-Do Not Track policy-Honored,2
+"Do Not Track-Do Not Track policy-Mentioned, but unclear if honored",7
+Do Not Track-Do Not Track policy-Not honored,54
+Do Not Track-Do Not Track policy-Not mentioned,1
+Do Not Track-Do Not Track policy-Other,3
+First Party Collection/Use-Action First-Party-Collect from user on other websites,43
+First Party Collection/Use-Action First-Party-Collect in mobile app,127
+First Party Collection/Use-Action First-Party-Collect on mobile website,24
+First Party Collection/Use-Action First-Party-Collect on website,1201
+First Party Collection/Use-Action First-Party-Other,395
+First Party Collection/Use-Action First-Party-Receive from other parts of company/affiliates,33
+First Party Collection/Use-Action First-Party-Receive from other service/third-party (named),120
+First Party Collection/Use-Action First-Party-Receive from other service/third-party (unnamed),206
+First Party Collection/Use-Action First-Party-Track user on other websites,66
+First Party Collection/Use-Action First-Party-Unspecified,518
+First Party Collection/Use-Choice Scope-Both,75
+First Party Collection/Use-Choice Scope-Collection,312
+First Party Collection/Use-Choice Scope-Unspecified,20
+First Party Collection/Use-Choice Scope-Use,121
+First Party Collection/Use-Choice Type-Browser/device privacy controls,121
+First Party Collection/Use-Choice Type-Dont use service/feature,211
+First Party Collection/Use-Choice Type-First-party privacy controls,25
+First Party Collection/Use-Choice Type-Opt-in,343
+First Party Collection/Use-Choice Type-Opt-out link,53
+First Party Collection/Use-Choice Type-Opt-out via contacting company,20
+First Party Collection/Use-Choice Type-Other,80
+First Party Collection/Use-Choice Type-Third-party privacy controls,38
+First Party Collection/Use-Choice Type-Unspecified,46
+First Party Collection/Use-Collection Mode-Explicit,731
+First Party Collection/Use-Collection Mode-Implicit,660
+First Party Collection/Use-Collection Mode-Unspecified,137
+First Party Collection/Use-Does/Does Not-Does,1190
+First Party Collection/Use-Does/Does Not-Does Not,118
+First Party Collection/Use-Identifiability-Aggregated or anonymized,203
+First Party Collection/Use-Identifiability-Identifiable,290
+First Party Collection/Use-Identifiability-Other,62
+First Party Collection/Use-Identifiability-Unspecified,81
+First Party Collection/Use-Personal Information Type-Computer information,264
+First Party Collection/Use-Personal Information Type-Contact,450
+First Party Collection/Use-Personal Information Type-Cookies and tracking elements,336
+First Party Collection/Use-Personal Information Type-Demographic,123
+First Party Collection/Use-Personal Information Type-Financial,141
+First Party Collection/Use-Personal Information Type-Generic personal information,158
+First Party Collection/Use-Personal Information Type-Health,19
+First Party Collection/Use-Personal Information Type-IP address and device IDs,203
+First Party Collection/Use-Personal Information Type-Location,132
+First Party Collection/Use-Personal Information Type-Other,223
+First Party Collection/Use-Personal Information Type-Personal identifier,45
+First Party Collection/Use-Personal Information Type-Social media data,62
+First Party Collection/Use-Personal Information Type-Survey data,42
+First Party Collection/Use-Personal Information Type-Unspecified,274
+First Party Collection/Use-Personal Information Type-User online activities,510
+First Party Collection/Use-Personal Information Type-User profile,137
+First Party Collection/Use-Purpose-Additional service/feature,607
+First Party Collection/Use-Purpose-Advertising,307
+First Party Collection/Use-Purpose-Analytics/Research,700
+First Party Collection/Use-Purpose-Basic service/feature,791
+First Party Collection/Use-Purpose-Legal requirement,74
+First Party Collection/Use-Purpose-Marketing,411
+First Party Collection/Use-Purpose-Merger/Acquisition,8
+First Party Collection/Use-Purpose-Other,196
+First Party Collection/Use-Purpose-Personalization/Customization,439
+First Party Collection/Use-Purpose-Service Operation and Security,372
+First Party Collection/Use-Purpose-Unspecified,309
+First Party Collection/Use-User Type-Other,77
+First Party Collection/Use-User Type-Unspecified,49
+First Party Collection/Use-User Type-User with account,174
+First Party Collection/Use-User Type-User without account,43
+International and Specific Audiences-Audience Type-Californians,126
+International and Specific Audiences-Audience Type-Children,291
+International and Specific Audiences-Audience Type-Citizens from other countries,92
+International and Specific Audiences-Audience Type-Europeans,42
+International and Specific Audiences-Audience Type-Other,31
+Other-Other Type-Introductory/Generic,968
+Other-Other Type-Other,629
+Other-Other Type-Practice not covered,712
+Other-Other Type-Privacy contact information,450
+Policy Change-Change Type-In case of merger or acquisition,12
+Policy Change-Change Type-Non-privacy relevant change,19
+Policy Change-Change Type-Other,13
+Policy Change-Change Type-Privacy relevant change,128
+Policy Change-Change Type-Unspecified,169
+Policy Change-Notification Type-General notice in privacy policy,142
+Policy Change-Notification Type-General notice on website,92
+Policy Change-Notification Type-No notification,18
+Policy Change-Notification Type-Other,25
+Policy Change-Notification Type-Personal notice,75
+Policy Change-Notification Type-Unspecified,51
+Policy Change-User Choice-None,48
+Policy Change-User Choice-Opt-in,16
+Policy Change-User Choice-Opt-out,7
+Policy Change-User Choice-Other,10
+Policy Change-User Choice-Unspecified,75
+Policy Change-User Choice-User participation,32
+Third Party Sharing/Collection-Action Third Party-Collect on first party website/app,227
+Third Party Sharing/Collection-Action Third Party-Other,193
+Third Party Sharing/Collection-Action Third Party-Receive/Shared with,1009
+Third Party Sharing/Collection-Action Third Party-See,118
+Third Party Sharing/Collection-Action Third Party-Track on first party website/app,233
+Third Party Sharing/Collection-Action Third Party-Unspecified,109
+Third Party Sharing/Collection-Choice Scope-Both,51
+Third Party Sharing/Collection-Choice Scope-Collection,150
+Third Party Sharing/Collection-Choice Scope-Unspecified,20
+Third Party Sharing/Collection-Choice Scope-Use,121
+Third Party Sharing/Collection-Choice Type-Browser/device privacy controls,33
+Third Party Sharing/Collection-Choice Type-Dont use service/feature,83
+Third Party Sharing/Collection-Choice Type-First-party privacy controls,23
+Third Party Sharing/Collection-Choice Type-Opt-in,248
+Third Party Sharing/Collection-Choice Type-Opt-out link,55
+Third Party Sharing/Collection-Choice Type-Opt-out via contacting company,53
+Third Party Sharing/Collection-Choice Type-Other,68
+Third Party Sharing/Collection-Choice Type-Third-party privacy controls,59
+Third Party Sharing/Collection-Choice Type-Unspecified,59
+Third Party Sharing/Collection-Does/Does Not-Does,788
+Third Party Sharing/Collection-Does/Does Not-Does Not,149
+Third Party Sharing/Collection-Identifiability-Aggregated or anonymized,138
+Third Party Sharing/Collection-Identifiability-Identifiable,140
+Third Party Sharing/Collection-Identifiability-Other,35
+Third Party Sharing/Collection-Identifiability-Unspecified,73
+Third Party Sharing/Collection-Personal Information Type-Computer information,59
+Third Party Sharing/Collection-Personal Information Type-Contact,154
+Third Party Sharing/Collection-Personal Information Type-Cookies and tracking elements,165
+Third Party Sharing/Collection-Personal Information Type-Demographic,36
+Third Party Sharing/Collection-Personal Information Type-Financial,69
+Third Party Sharing/Collection-Personal Information Type-Generic personal information,158
+Third Party Sharing/Collection-Personal Information Type-Health,15
+Third Party Sharing/Collection-Personal Information Type-IP address and device IDs,61
+Third Party Sharing/Collection-Personal Information Type-Location,36
+Third Party Sharing/Collection-Personal Information Type-Other,133
+Third Party Sharing/Collection-Personal Information Type-Personal identifier,13
+Third Party Sharing/Collection-Personal Information Type-Survey data,14
+Third Party Sharing/Collection-Personal Information Type-Unspecified,200
+Third Party Sharing/Collection-Personal Information Type-User Profile,77
+Third Party Sharing/Collection-Personal Information Type-User online activities,273
+Third Party Sharing/Collection-Purpose-Additional service/feature,303
+Third Party Sharing/Collection-Purpose-Advertising,344
+Third Party Sharing/Collection-Purpose-Analytics/Research,233
+Third Party Sharing/Collection-Purpose-Basic service/feature,381
+Third Party Sharing/Collection-Purpose-Legal requirement,295
+Third Party Sharing/Collection-Purpose-Marketing,234
+Third Party Sharing/Collection-Purpose-Merger/Acquisition,182
+Third Party Sharing/Collection-Purpose-Other,159
+Third Party Sharing/Collection-Purpose-Personalization/Customization,61
+Third Party Sharing/Collection-Purpose-Service operation and security,312
+Third Party Sharing/Collection-Purpose-Unspecified,223
+Third Party Sharing/Collection-Third Party Entity-Named third party,735
+Third Party Sharing/Collection-Third Party Entity-Other,66
+Third Party Sharing/Collection-Third Party Entity-Other part of company/affiliate,221
+Third Party Sharing/Collection-Third Party Entity-Other users,46
+Third Party Sharing/Collection-Third Party Entity-Public,62
+Third Party Sharing/Collection-Third Party Entity-Unnamed third party,878
+Third Party Sharing/Collection-Third Party Entity-Unspecified,86
+Third Party Sharing/Collection-User Type-Other,36
+Third Party Sharing/Collection-User Type-Unspecified,31
+Third Party Sharing/Collection-User Type-User with account,61
+Third Party Sharing/Collection-User Type-User without account,8
+"User Access, Edit and Deletion-Access Scope-Other",38
+"User Access, Edit and Deletion-Access Scope-Other data about user",39
+"User Access, Edit and Deletion-Access Scope-Profile data",49
+"User Access, Edit and Deletion-Access Scope-Transactional data",27
+"User Access, Edit and Deletion-Access Scope-Unspecified",55
+"User Access, Edit and Deletion-Access Scope-User account data",213
+"User Access, Edit and Deletion-Access Type-Deactivate account",16
+"User Access, Edit and Deletion-Access Type-Delete account (full)",26
+"User Access, Edit and Deletion-Access Type-Delete account (partial)",55
+"User Access, Edit and Deletion-Access Type-Edit information",258
+"User Access, Edit and Deletion-Access Type-Export",1
+"User Access, Edit and Deletion-Access Type-None",9
+"User Access, Edit and Deletion-Access Type-Other",60
+"User Access, Edit and Deletion-Access Type-Unspecified",27
+"User Access, Edit and Deletion-Access Type-View",62
+"User Access, Edit and Deletion-User Type-Other",21
+"User Access, Edit and Deletion-User Type-Unspecified",19
+"User Access, Edit and Deletion-User Type-User with account",112
+"User Access, Edit and Deletion-User Type-User without account",7
+User Choice/Control-Choice Scope-First party collection,215
+User Choice/Control-Choice Scope-First party use,451
+User Choice/Control-Choice Scope-Third party sharing/collection,217
+User Choice/Control-Choice Scope-Third party use,101
+User Choice/Control-Choice Scope-Unspecified,115
+User Choice/Control-Choice Type-Browser/device privacy controls,173
+User Choice/Control-Choice Type-Dont use service/feature,102
+User Choice/Control-Choice Type-First-party privacy controls,111
+User Choice/Control-Choice Type-Opt-in,157
+User Choice/Control-Choice Type-Opt-out link,220
+User Choice/Control-Choice Type-Opt-out via contacting company,202
+User Choice/Control-Choice Type-Other,106
+User Choice/Control-Choice Type-Third-party privacy controls,71
+User Choice/Control-Choice Type-Unspecified,120
+User Choice/Control-Personal Information Type-Computer information,4
+User Choice/Control-Personal Information Type-Contact,141
+User Choice/Control-Personal Information Type-Cookies and tracking elements,79
+User Choice/Control-Personal Information Type-Demographic,10
+User Choice/Control-Personal Information Type-Financial,8
+User Choice/Control-Personal Information Type-Generic personal information,43
+User Choice/Control-Personal Information Type-Health,7
+User Choice/Control-Personal Information Type-IP address and device IDs,1
+User Choice/Control-Personal Information Type-Location,15
+User Choice/Control-Personal Information Type-Other,47
+User Choice/Control-Personal Information Type-Personal identifier,6
+User Choice/Control-Personal Information Type-Social media data,5
+User Choice/Control-Personal Information Type-Survey data,2
+User Choice/Control-Personal Information Type-Unspecified,78
+User Choice/Control-Personal Information Type-User online activities,22
+User Choice/Control-Personal Information Type-User profile,24
+User Choice/Control-Purpose-Additional service/feature,106
+User Choice/Control-Purpose-Advertising,113
+User Choice/Control-Purpose-Analytics/Research,12
+User Choice/Control-Purpose-Basic service/feature,115
+User Choice/Control-Purpose-Legal requirement,11
+User Choice/Control-Purpose-Marketing,249
+User Choice/Control-Purpose-Merger/Acquisition,3
+User Choice/Control-Purpose-Other,48
+User Choice/Control-Purpose-Personalization/Customization,36
+User Choice/Control-Purpose-Service Operation and Security,17
+User Choice/Control-Purpose-Unspecified,92
+User Choice/Control-User Type-Other,31
+User Choice/Control-User Type-Unspecified,16
+User Choice/Control-User Type-User with account,82
+User Choice/Control-User Type-User without account,14
